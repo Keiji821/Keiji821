@@ -1,1 +1,1 @@
-```Programador en python y bash```
+Desarrollador principiante en python y bash, apasionado por la programación y el hacking. 
