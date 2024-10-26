@@ -1,3 +1,5 @@
-![Animated GIF](https://i.namu.wiki/i/qtWDkAsV1IZiAX1uJM49Izn1selAjDyKkaa0NnpuAH3pgSyQe6FPmpPMBhP1eo7TxkXYymHzDTm9ITHasGd30g.gif "Animated GIF")
+![Image](https://c4.wallpaperflare.com/wallpaper/670/229/280/anime-tengen-toppa-gurren-lagann-simon-tengen-toppa-gurren-lagann-wallpaper-preview.jpg)
+
+![Animated GIF]( "Animated GIF")
 
 Desarrollador principiante en python y bash, apasionado por la programación y el hacking. 
