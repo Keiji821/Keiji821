@@ -3,4 +3,9 @@
 
 > Desarrollador principiante en python y bash, apasionado por la programación y el hacking. 
 
+</details>
+<summary>Mis habilidades</summary>
+hola
+</details>
+
 ![Animated GIF](https://giffiles.alphacoders.com/149/149242.gif)
