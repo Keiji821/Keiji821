@@ -3,8 +3,8 @@
 
 > Desarrollador principiante en python y bash, apasionado por la programación y el hacking. 
 
-<summary>Mis habilidades</summary>
 </details>
+  <summary>Mis habilidades</summary>
 hola
 </details>
 
