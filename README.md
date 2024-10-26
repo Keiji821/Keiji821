@@ -4,7 +4,7 @@
 > Desarrollador principiante en python y bash, apasionado por la programación y el hacking. 
 
 </details>
-   <summary>Mis habilidades</summary>
+    <summary>Mis habilidades</summary>
 hola
 </details>
 
