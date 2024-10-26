@@ -5,7 +5,10 @@
 
 <details>
   <summary>Mis habilidades</summary>
-hola
+
+- Python
+- Bash
+- Node.js
 
 </details>
 
