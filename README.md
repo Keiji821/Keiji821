@@ -11,6 +11,7 @@
 - ![Bash](https://img.shields.io/badge/Bash-5.0-green?logo=gnu-bash&logoColor=white)
 
 - ![Nodejs](https://img.shields.io/badge/Nodejs-14.17-orange?logo=nodedotjs&logoColor=white)
+#
 
 </details>
 
