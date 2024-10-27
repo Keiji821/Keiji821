@@ -6,7 +6,7 @@
 <details>
   <summary>Mis habilidades</summary>
 
-[![Python](https://www.svgrepo.com/show/376344/python.svg) 
+[Python](https://www.svgrepo.com/show/376344/python.svg) 
 
 [![Bash]()
 
