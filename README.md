@@ -6,11 +6,11 @@
 <details>
   <summary>Mis habilidades</summary>
 
-[Python](https://www.svgrepo.com/show/376344/python.svg) 
+![Python](https://www.svgrepo.com/show/376344/python.svg) 
 
-[Bash](https://www.svgrepo.com/show/353478/bash-icon.svg)
+![Bash](https://www.svgrepo.com/show/353478/bash-icon.svg)
 
-[Nodejs](https://www.svgrepo.com/show/372918/nodejs-small.svg)
+![Nodejs](https://www.svgrepo.com/show/372918/nodejs-small.svg)
 
 </details>
 
