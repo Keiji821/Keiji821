@@ -14,4 +14,8 @@
 
 </details>
 
+![Python](https://img.shields.io/badge/Python-3.9-azul.svg)
+![Bash](https://img.shields.io/badge/Bash-5.0-verde.svg)
+![Nodejs](https://img.shields.io/badge/Nodejs-14.17-naranja.svg)
+
 ![Animated GIF](https://giffiles.alphacoders.com/149/149242.gif)
