@@ -6,7 +6,7 @@
 <details>
   <summary>Mis habilidades</summary>
 
-[![Python](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQikjprGV5XhGw6NnnqjdTgDPgHnuLxSTyF0A&s) 
+[![Python](https://www.svgrepo.com/show/376344/python.svg) 
 
 [![Bash]()
 
