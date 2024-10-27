@@ -6,7 +6,7 @@
 <details>
   <summary>Mis habilidades</summary>
 
-[![Python](https://banner2.cleanpng.com/20190623/yp/kisspng-python-computer-icons-programming-language-executa-1713885634631.webp) 
+[![Python](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQikjprGV5XhGw6NnnqjdTgDPgHnuLxSTyF0A&s) 
 
 [![Bash]()
 
