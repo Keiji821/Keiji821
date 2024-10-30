@@ -1,4 +1,4 @@
-![Image]()
+![Animated GIF]()
 
 
 Desarrollador principiante en python, bash y nodejs, apasionado por la programación y el hacking. 
