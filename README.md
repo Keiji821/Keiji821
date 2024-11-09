@@ -14,4 +14,4 @@ Desarrollador principiante en python, bash y nodejs, apasionado por la programac
 
 </details>
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=<983476283491110932>)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=983476283491110932)
