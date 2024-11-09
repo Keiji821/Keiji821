@@ -17,5 +17,5 @@ Desarrollador principiante en python, bash y nodejs, apasionado por la programac
 <table>
   <tr>
     <th><a href="#Mi-discord">Mi discord</a></th>
-    <td><img src="https://dcbadge.limes.pink/api/shield/keiji_takahashi98" alt="" /></td>
+    <td><img src="https://dcbadge.limes.pink/api/shield/983476283491110932" alt="" /></td>
   </tr>
