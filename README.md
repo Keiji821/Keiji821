@@ -14,3 +14,7 @@ Desarrollador principiante en python, bash y nodejs, apasionado por la programac
 #
 
 </details>
+
+Mi discord
+
+![Mi discord](https://dcbadge.limes.pink/api/shield/983476283491110932)
