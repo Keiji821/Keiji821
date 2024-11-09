@@ -16,6 +16,6 @@ Desarrollador principiante en python, bash y nodejs, apasionado por la programac
 
 <table>
   <tr>
-    <th><a href="#Mi-discord">Mi discord</a></th>
-    <td><img src="https://dcbadge.limes.pink/api/shield/983476283491110932" alt="" /></td>
+    <th><a href="#user-account">User Account</a></th>
+    <td><img src="https://dcbadge.limes.pink/api/shield/406125028065804289" alt="" /></td>
   </tr>
