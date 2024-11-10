@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZAo8vXDy03jgNl5b65UUuAofkLDorVU2KwvPbhzggPjMbxx20jPC2EA4_Sv3pJmWjcxCvZWQ50-2rVuZ8O9f34rz03f3qKGbdUb2c1Q7iqvpLrl7ebcFizIr7Plynw-ioCE6Wq-5K0AY/s280/tumblr_nk14ujBXBe1u96a82o1_500.gif" alt="Animated GIF">
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4d94eabf-4257-437f-a08d-5ee63b69705f/ddtki9m-9a182ec4-22ad-4f52-a8af-f5dc3ca6e137.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRkOTRlYWJmLTQyNTctNDM3Zi1hMDhkLTVlZTYzYjY5NzA1ZlwvZGR0a2k5bS05YTE4MmVjNC0yMmFkLTRmNTItYThhZi1mNWRjM2NhNmUxMzcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.JsN-v1xv4k0aiRW9Hugv7tBGyNEY-WegEDPtzmvVrbY" alt="Animated GIF">
 </p>
 
 <p align="center">
