@@ -15,4 +15,5 @@ Desarrollador principiante en python, bash y nodejs, apasionado por la programac
 </details>
 
 Cualquier pregunta o duda, contacteme a mi discord:
+
 [![Discord](https://img.shields.io/badge/Discord-Keiji-%235865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/983476283491110932)
