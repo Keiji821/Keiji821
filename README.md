@@ -3,7 +3,7 @@
 
 Desarrollador principiante en python, bash y nodejs, apasionado por la programación y el hacking.
 
-![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python&logoColor=white)![Bash](https://img.shields.io/badge/Bash-5.0-green?logo=gnu-bash&logoColor=white)![Nodejs](https://img.shields.io/badge/Nodejs-14.17-orange?logo=nodedotjs&logoColor=white)
+ ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python&logoColor=white)![Bash](https://img.shields.io/badge/Bash-5.0-green?logo=gnu-bash&logoColor=white)![Nodejs](https://img.shields.io/badge/Nodejs-14.17-orange?logo=nodedotjs&logoColor=white)
 
 <p align="center">
 <a href="https://github.com/noob-hackers"><img title="Keiji" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keiji821&layout=compact"></a>
