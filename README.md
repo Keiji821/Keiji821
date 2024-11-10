@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4d94eabf-4257-437f-a08d-5ee63b69705f/ddtki9m-9a182ec4-22ad-4f52-a8af-f5dc3ca6e137.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRkOTRlYWJmLTQyNTctNDM3Zi1hMDhkLTVlZTYzYjY5NzA1ZlwvZGR0a2k5bS05YTE4MmVjNC0yMmFkLTRmNTItYThhZi1mNWRjM2NhNmUxMzcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.JsN-v1xv4k0aiRW9Hugv7tBGyNEY-WegEDPtzmvVrbY" alt="Animated GIF">
+<img src="https://favim.com/pd/s12/gif_previews/8/858/8581/85812/8581236.gif" alt="Animated GIF">
 </p>
 
 <p align="center">
