@@ -9,4 +9,8 @@ Desarrollador principiante en python, bash y nodejs, apasionado por la programac
 
 ![Nodejs](https://img.shields.io/badge/Nodejs-14.17-orange?logo=nodedotjs&logoColor=white)
 
+<p align="center">
+<a href="https://github.com/noob-hackers"><img title="Keiji" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keiji821&layout=compact"></a>
+</p>
+
 [![Discord](https://img.shields.io/badge/Discord-Keiji-%235865F2.svg?logo=discord&logoColor=white&label=Mi%20discord&message=Hola%21%20Soy%20Keiji%21)](https://discord.com/users/983476283491110932)
