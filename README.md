@@ -13,3 +13,5 @@ Desarrollador principiante en python, bash y nodejs, apasionado por la programac
 - ![Nodejs](https://img.shields.io/badge/Nodejs-14.17-orange?logo=nodedotjs&logoColor=white)
 
 </details>
+
+[![Discord](https://img.shields.io/badge/Discord-Keiji-blue.svg)](https://discord.com/users/983476283491110932)
