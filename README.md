@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://25.media.tumblr.com/c30929e8a4916248dc53de2161a6982d/tumblr_milivoicNa1qmrimro1_500.gif" alt="Animated GIF">
+<img src="https://i.pinimg.com/originals/a9/22/95/a92295d45988e061987793b545d1c131.gif" alt="Animated GIF">
 </p>
 
 <p align="center">
