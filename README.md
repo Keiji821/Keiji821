@@ -13,5 +13,3 @@ Desarrollador principiante en python, bash y nodejs, apasionado por la programac
 - ![Nodejs](https://img.shields.io/badge/Nodejs-14.17-orange?logo=nodedotjs&logoColor=white)
 
 </details>
-
-![My Discord](https://discord-readme-badge.vercel.app/api?id=<980259839513083914>)
