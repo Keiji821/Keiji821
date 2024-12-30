@@ -18,6 +18,6 @@ Desarrollador principiante en python, bash y nodejs, apasionado por la programac
 
 <p align="center">
 <a href="https://discord.com/users/983476283491110932">
-<img src="https://img.shields.io/badge/Discord-Keiji-%235865F2.svg?logo=discord&logoColor=white&label=Mi%20discord&message=Hola%21%20Soy%20Keiji%21">
+<img src="https://img.shields.io/badge/Discord-Keiji-%235865F2.svg?logo=discord&logoColor=white&label=Mi%20discord >&message=Hola%21%20Soy%20Keiji%21">
 </a>
 </p>
