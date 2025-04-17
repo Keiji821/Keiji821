@@ -10,10 +10,7 @@
 
 ---
 
-### 🛠️ Tecnologías
-- **Lenguajes:** Python, Bash, Node.js  
-- **Herramientas:** Git, Linux, Docker  
-- **Intereses:** Ciberseguridad, Automatización  
+Un simple programador en python, bash y nodejs
 
 ---
 
