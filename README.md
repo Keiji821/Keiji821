@@ -8,11 +8,8 @@
   <img src="https://img.shields.io/badge/Node.js-14.17-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 </p>
 
----
 
-Un simple programador en python, bash y nodejs
-
----
+Un simple programador en python, bash y nodejs, apasianado por el mundo del hacking.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Keiji821&show_icons=true&theme=tokyonight&count_private=true">
