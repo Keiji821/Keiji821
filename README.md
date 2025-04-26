@@ -7,7 +7,7 @@
 Un pequeño programador al que le gusta el hacking y la ciberseguridad.
 
 <details>
-<summary><b>Mis habilidades</b></summary>
+<summary><b>🍂 Mis habilidades</b></summary>
 
 
 <p align="left">
@@ -19,7 +19,7 @@ Un pequeño programador al que le gusta el hacking y la ciberseguridad.
 </details>
 
 <details>
-<summary><b>Contactame</b></summary>
+<summary><b>🍁 Contactame</b></summary>
 
 <p align="left">
   <a href="https://discord.com/users/983476283491110932">
