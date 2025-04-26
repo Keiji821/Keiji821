@@ -9,6 +9,7 @@ Un pequeño programador al que le gusta el hacking y la ciberseguridad.
 <details>
 <summary><b>Mis habilidades</b></summary>
 
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3.9-%233776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Bash-5.0-%234EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
@@ -19,6 +20,7 @@ Un pequeño programador al que le gusta el hacking y la ciberseguridad.
 
 <details>
 <summary><b>Contactame</b></summary>
+
 <p align="left">
   <a href="https://discord.com/users/983476283491110932">
 <img src="https://img.shields.io/badge/Discord-Keiji-%235865F2?style=for-the-badge&logo=discord&logoColor=white">
