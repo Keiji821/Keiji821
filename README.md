@@ -8,7 +8,7 @@ Entusiasta de la programación y hacking.
 
 
 **Por si deseas contactarme:**
-<p align="center">
+<p align="left">
   <a href="https://discord.com/users/983476283491110932">
     <img src="https://img.shields.io/badge/Discord-Keiji-%235865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
