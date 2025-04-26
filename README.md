@@ -6,10 +6,8 @@
 
 Entusiasta de la programación y hacking.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Keiji821&show_icons=true&theme=tokyonight&count_private=true">
-</p>
 
+**Por si deseas contactarme:**
 <p align="center">
   <a href="https://discord.com/users/983476283491110932">
     <img src="https://img.shields.io/badge/Discord-Keiji-%235865F2?style=for-the-badge&logo=discord&logoColor=white">
