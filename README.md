@@ -4,7 +4,7 @@
   </kbd>  
 </p>  
 
-Un pequeño programador al que le gusta el hacking y ciberseguridad.
+Un pequeño programador al que le gusta el hacking y la ciberseguridad.
 
 <details>
 <summary><b>Mis habilidades</b></summary>
