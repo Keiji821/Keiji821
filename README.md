@@ -9,7 +9,6 @@ Un pequeño programador al que le gusta el hacking y la ciberseguridad.
 <details>
 <summary><b>🍂 Mis habilidades</b></summary>
 
-
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3.9-%233776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Bash-5.0-%234EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
