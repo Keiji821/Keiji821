@@ -8,6 +8,9 @@
   <img src="https://img.shields.io/badge/Node.js-14.17-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 </p>
 
+<p align="right">
+  <img src="https://wallpapercave.com/wp/wp12631470.jpg" alt="Animated GIF" width="400">
+</p>
 
 Un simple programador en python, bash y nodejs, apasianado por el mundo del hacking.
 
