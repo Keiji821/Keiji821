@@ -1,4 +1,4 @@
-<p align= "right"> <kbd> <img  src="https://wallpapercave.com/wp/wp12631470.jpg"width="420"> </kbd><br><br>
+<p align= "right"> <kbd> <img  src="https://m.gettywallpapers.com/wp-content/uploads/2023/06/Aesthetic-Cute-Anime-Profile-Picture-For-Reddit.jpg"width="420"> </kbd><br><br>
 
 Un pequeño programador al que le gusta el hacking y ciberseguridad.
 
