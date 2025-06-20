@@ -1,22 +1,23 @@
-<p align="right">  
-  <kbd>  
-    <img src="https://m.gettywallpapers.com/wp-content/uploads/2023/06/Aesthetic-Cute-Anime-Profile-Picture-For-Reddit.jpg" width="320" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">  
-  </kbd>  
-</p>  
-
-Un pequeño programador al que le gusta el hacking y la ciberseguridad.
-
-<details>
-<summary><b>🍂 Mis habilidades</b></summary>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3.9-%233776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Bash-5.0-%234EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-14.17-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<p align="center">
+  <a href="https://github.com/Keiji821">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=Keiji821&data=followers,repositories,stars,commits&theme=viridescent" alt="Github WidgetBox"/>
+  </a>
 </p>
 
-</details>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,git,cloudflare,linux" alt="Tools"/>
+</p>
 
+<p align="center">
+  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=Keiji821&count_private=true&show_icons=true&title_color=57ff8c&text_color=c9d1d9&icon_color=57ff8c&border_color=30363d&bg_color=161b22" alt="User stats" />
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Keiji821&count_private=true&show_icons=true&title_color=57ff8c&text_color=c9d1d9&icon_color=57ff8c&border_color=30363d&bg_color=161b22&hide=html,javascript,dockerfile,c,handlebars&layout=compact" alt="Top languages" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Keiji821">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Keiji821&theme=github-compact&color=57ff8c&line=57ff8c&point=57ff8c&area_color=57ff8c" alt="Github activity graph"/>
+  </a>
+</p>
 <details>
 <summary><b>🍁 Contactame</b></summary>
 
