@@ -18,13 +18,11 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Keiji821&theme=github-compact&color=57ff8c&line=57ff8c&point=57ff8c&area_color=57ff8c" alt="Github activity graph"/>
   </a>
 </p>
-<details>
-<summary><b>🍁 Contactame</b></summary>
+
+#### Contactame
 
 <p align="left">
   <a href="https://discord.com/users/983476283491110932">
 <img src="https://img.shields.io/badge/Discord-Keiji-%235865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </p>
-
-</details>
