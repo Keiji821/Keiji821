@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,c,c++,c#, git,cloudflare,linux" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,c, git,cloudflare,linux" alt="Tools"/>
 </p>
 
 <p align="center">
