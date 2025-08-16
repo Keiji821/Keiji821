@@ -12,7 +12,7 @@
 > My skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,c,bash" alt="Tools"/>
-  <img src="https://skillicons.dev/icons?i=git,cloudflare,linux,kali,termux" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,cloudflare,linux,kali,tmux" alt="Tools"/>
 </p>
 
 > My most used languages 
