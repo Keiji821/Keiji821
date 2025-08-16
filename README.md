@@ -11,7 +11,7 @@
 
 > My skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,c,bash,git,cloudflare,linux" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,c,bash,git,cloudflare,linux,hack" alt="Tools"/>
 </p>
 
 > My most used languages 
