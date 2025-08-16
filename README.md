@@ -12,11 +12,15 @@
   <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,c,git,cloudflare,linux" alt="Tools"/>
 </p>
 
+#
+
 > My most used languages 
 <p align="center">
   <img width="53%" src="https://github-readme-stats.vercel.app/api?username=Keiji821&count_private=true&show_icons=true&title_color=57ff8c&text_color=c9d1d9&icon_color=57ff8c&border_color=30363d&bg_color=161b22" alt="User stats" />
   <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Keiji821&count_private=true&show_icons=true&title_color=57ff8c&text_color=c9d1d9&icon_color=57ff8c&border_color=30363d&bg_color=161b22&hide=html,javascript,dockerfile,c,handlebars&layout=compact" alt="Top languages" />
 </p>
+
+#
 
 > My activity 
 <p align="center">
@@ -24,6 +28,8 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Keiji821&theme=github-compact&color=57ff8c&line=57ff8c&point=57ff8c&area_color=57ff8c" alt="Github activity graph"/>
   </a>
 </p>
+
+#
 
 > My contacts
 <p align="center">
