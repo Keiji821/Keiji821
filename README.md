@@ -22,9 +22,7 @@
 </p>
 
 > My most used languages 
-<p align="center">
-  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=Keiji821&count_private=true&show_icons=true&title_color=57ff8c&text_color=c9d1d9&icon_color=57ff8c&border_color=30363d&bg_color=161b22" alt="User stats" />
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Keiji821&count_private=true&show_icons=true&title_color=57ff8c&text_color=c9d1d9&icon_color=57ff8c&border_color=30363d&bg_color=161b22&hide=html,javascript,dockerfile,c,handlebars&layout=compact" alt="Top languages" />
+<p align="center"> src="https://github-readme-stats.vercel.app/api/top-langs?username=Keiji821&count_private=true&show_icons=true&title_color=57ff8c&text_color=c9d1d9&icon_color=57ff8c&border_color=30363d&bg_color=161b22&hide=html,javascript,dockerfile,c,handlebars&layout=compact" alt="Top languages" />
 </p>
 
 > My activity 
