@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://github.com/Keiji821">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=Keiji821&data=followers,repositories,stars,commits&theme=viridescent" alt="Github WidgetBox"/>
-  </a>
-</p>
-
 `👏` I'm Keiji, a free-time programmer who does what he loves and plays with systems. I'm fascinated by programming and networks, as well as the universe.
 
 #### My current projects 
@@ -13,7 +7,13 @@
 #
 
 > My statistics
-
+<p align="center">
+  <a href="https://github.com/Keiji821">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=Keiji821&data=followers,repositories,stars,commits&theme=viridescent" alt="Github WidgetBox"/>
+  </a>
+  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=Keiji821&count_private=true&show_icons=true&title_color=57ff8c&text_color=c9d1d9&icon_color=57ff8c&border_color=30363d&bg_color=161b22" alt="User stats" />
+  <img width="43%"
+</p>
 
 > My skills
 <p align="center">
