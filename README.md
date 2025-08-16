@@ -1,4 +1,4 @@
-I'm Keiji, a free-time programmer who does what he loves and plays with systems. I'm fascinated by programming and networks, as well as the universe.
+👏 I'm Keiji, a free-time programmer who does what he loves and plays with systems. I'm fascinated by programming and networks, as well as the universe.
 
 #
 
