@@ -1,6 +1,6 @@
 👏 I'm Keiji, a free-time programmer who does what he loves and plays with systems. I'm fascinated by programming and networks, as well as the universe.
 
-##### My current projects
+#### My current projects
 
 • [Stellar](https://github.com/Keiji821/Stellar)
 
